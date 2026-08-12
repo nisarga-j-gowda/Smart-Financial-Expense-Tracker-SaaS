@@ -1,0 +1,6 @@
+{
+  "name": "FinTrack - Smart Financial Expense Tracker",
+  "description": "A modern, full-stack SaaS financial expense tracker with interactive charts, budget management, goals, recurring payments, AI-driven insights, and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
